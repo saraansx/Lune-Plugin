@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" width="150" alt="Lune Plugin Logo" />
+  <img src="assets/Logo.png" width="150" alt="Lune Plugin Logo" />
 
   <br />
 
