@@ -82,4 +82,3 @@ This allows for broad usage within the open-source community, ensuring the core 
 <div align="center">
   <sub>✦ Lune Plugin ─ The Engine of Aesthetic Listening ✦</sub>
 </div>
-
